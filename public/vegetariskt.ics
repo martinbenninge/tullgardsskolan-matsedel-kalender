@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tullgårdsskolan//Skolmatskalender//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tullgårdsskolan – Vegetariskt
+X-WR-CALDESC:Automatiskt uppdaterad från Skolmaten.se
+BEGIN:VEVENT
+UID:tullgardsskolan-20260831-vegetarian@skolmaten-kalender
+DTSTAMP:20260904T105157Z
+LAST-MODIFIED:20260904T105157Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Sojafärs hepherd's pie
+DESCRIPTION:Vegetariskt: Sojafärs hepherd's pie\nKälla: https://skolmat
+ en.se/tullgardsskolan
+URL:https://skolmaten.se/tullgardsskolan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tullgardsskolan-20260901-vegetarian@skolmaten-kalender
+DTSTAMP:20260904T105157Z
+LAST-MODIFIED:20260904T105157Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Indisk kikärtsgryta med ris
+DESCRIPTION:Vegetariskt: Indisk kikärtsgryta med ris\nKälla: https://sk
+ olmaten.se/tullgardsskolan
+URL:https://skolmaten.se/tullgardsskolan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tullgardsskolan-20260902-vegetarian@skolmaten-kalender
+DTSTAMP:20260904T105157Z
+LAST-MODIFIED:20260904T105157Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Quorn filé med persjliasås och potatis
+DESCRIPTION:Vegetariskt: Quorn filé med persjliasås och potatis\nKälla
+ : https://skolmaten.se/tullgardsskolan
+URL:https://skolmaten.se/tullgardsskolan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tullgardsskolan-20260903-vegetarian@skolmaten-kalender
+DTSTAMP:20260904T105157Z
+LAST-MODIFIED:20260904T105157Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Purjolökssoppa med hembakat bröd och ost
+DESCRIPTION:Vegetariskt: Purjolökssoppa med hembakat bröd och ost\nKäl
+ la: https://skolmaten.se/tullgardsskolan
+URL:https://skolmaten.se/tullgardsskolan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tullgardsskolan-20260904-vegetarian@skolmaten-kalender
+DTSTAMP:20260904T105157Z
+LAST-MODIFIED:20260904T105157Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Vegobiffar med klyftpotatis bearnaisesås
+DESCRIPTION:Vegetariskt: Vegobiffar med klyftpotatis bearnaisesås\nKäll
+ a: https://skolmaten.se/tullgardsskolan
+URL:https://skolmaten.se/tullgardsskolan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

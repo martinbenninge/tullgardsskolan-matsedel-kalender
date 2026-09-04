@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tullgårdsskolan//Skolmatskalender//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tullgårdsskolan – Kött & vegetariskt
+X-WR-CALDESC:Automatiskt uppdaterad från Skolmaten.se
+BEGIN:VEVENT
+UID:tullgardsskolan-20260831-both@skolmaten-kalender
+DTSTAMP:20260904T105157Z
+LAST-MODIFIED:20260904T105157Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Kött: Shepherd's pie | Vegetariskt: Sojafärs hepherd's pie
+DESCRIPTION:Kött: Shepherd's pie\nVegetariskt: Sojafärs hepherd's pie\n
+ Källa: https://skolmaten.se/tullgardsskolan
+URL:https://skolmaten.se/tullgardsskolan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tullgardsskolan-20260901-both@skolmaten-kalender
+DTSTAMP:20260904T105157Z
+LAST-MODIFIED:20260904T105157Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Vegetariskt: Indisk kikärtsgryta med ris
+DESCRIPTION:Vegetariskt: Indisk kikärtsgryta med ris\nKälla: https://sk
+ olmaten.se/tullgardsskolan
+URL:https://skolmaten.se/tullgardsskolan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tullgardsskolan-20260902-both@skolmaten-kalender
+DTSTAMP:20260904T105157Z
+LAST-MODIFIED:20260904T105157Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Kött: Torsk med persjliasås och potatis | Vegetariskt: Quorn fi
+ lé med persjliasås och potatis
+DESCRIPTION:Kött: Torsk med persjliasås och potatis\nVegetariskt: Quorn
+  filé med persjliasås och potatis\nKälla: https://skolmaten.se/tullga
+ rdsskolan
+URL:https://skolmaten.se/tullgardsskolan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tullgardsskolan-20260903-both@skolmaten-kalender
+DTSTAMP:20260904T105157Z
+LAST-MODIFIED:20260904T105157Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Vegetariskt: Purjolökssoppa med hembakat bröd och ost
+DESCRIPTION:Vegetariskt: Purjolökssoppa med hembakat bröd och ost\nKäl
+ la: https://skolmaten.se/tullgardsskolan
+URL:https://skolmaten.se/tullgardsskolan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tullgardsskolan-20260904-both@skolmaten-kalender
+DTSTAMP:20260904T105157Z
+LAST-MODIFIED:20260904T105157Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Kött: Pannbiffar med klyftpotatis bearnaisesås | Vegetariskt: V
+ egobiffar med klyftpotatis bearnaisesås
+DESCRIPTION:Kött: Pannbiffar med klyftpotatis bearnaisesås\nVegetariskt
+ : Vegobiffar med klyftpotatis bearnaisesås\nKälla: https://skolmaten.s
+ e/tullgardsskolan
+URL:https://skolmaten.se/tullgardsskolan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

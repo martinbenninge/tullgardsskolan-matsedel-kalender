@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tullgårdsskolan//Skolmatskalender//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tullgårdsskolan – Kött
+X-WR-CALDESC:Automatiskt uppdaterad från Skolmaten.se
+BEGIN:VEVENT
+UID:tullgardsskolan-20260831-meat@skolmaten-kalender
+DTSTAMP:20260904T105157Z
+LAST-MODIFIED:20260904T105157Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Shepherd's pie
+DESCRIPTION:Kött: Shepherd's pie\nKälla: https://skolmaten.se/tullgards
+ skolan
+URL:https://skolmaten.se/tullgardsskolan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tullgardsskolan-20260902-meat@skolmaten-kalender
+DTSTAMP:20260904T105157Z
+LAST-MODIFIED:20260904T105157Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Torsk med persjliasås och potatis
+DESCRIPTION:Kött: Torsk med persjliasås och potatis\nKälla: https://sk
+ olmaten.se/tullgardsskolan
+URL:https://skolmaten.se/tullgardsskolan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tullgardsskolan-20260904-meat@skolmaten-kalender
+DTSTAMP:20260904T105157Z
+LAST-MODIFIED:20260904T105157Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Pannbiffar med klyftpotatis bearnaisesås
+DESCRIPTION:Kött: Pannbiffar med klyftpotatis bearnaisesås\nKälla: htt
+ ps://skolmaten.se/tullgardsskolan
+URL:https://skolmaten.se/tullgardsskolan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
