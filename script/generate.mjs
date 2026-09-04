@@ -3,7 +3,7 @@ import { mkdir, writeFile } from "node:fs/promises";
 const RSS_URL =
   "https://skolmaten.se/api/4/rss/week/tullgardsskolan?locale=sv";
 const SCHOOL_URL = "https://skolmaten.se/tullgardsskolan";
-const OUTPUT_DIR = "public";
+const OUTPUT_DIR = "docs";
 
 const calendars = [
   {
